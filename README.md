@@ -1,6 +1,8 @@
 # このリポジトリについて
 このリポジトリでは [Marp - Markdown Presentation Writer](https://yhatt.github.io/marp/) を使った、自宅リモートワーク環境の紹介スライドを公開しています。
 
+[スライドはこちら](./introduction.pdf)
+
 このスライドは社内のオンライン LT（約 5 分）で使用しました。
 
 環境は 2020/05 時点のものです。

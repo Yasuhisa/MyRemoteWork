@@ -61,6 +61,8 @@ style: |
 
 の順番に紹介するよ！
 
+その後在宅勤務で心がけていることを簡単に話します。
+
 ---
 
 # 部屋
@@ -185,11 +187,54 @@ style: |
 
 ---
 
+# 在宅勤務で心がけていること
+
+- 仕事中に息抜きの時間を取る
+  - 出社と比較すると出退勤/休憩の境目がない
+  - 過労は仕事のパフォーマンスに影響がでる🐜
+- 勤務時間内の 100% をデスクで過ごさない
+  - コーヒーブレイクしたり☕
+  - ストレッチや筋トレしたり💪
+- やれることをやればそれで十分
+
+---
+
+# 息抜きの風景1
+
+![bg](./nespresso-01.jpg)
+
+
+---
+
+# 息抜きの風景2
+
+![bg](./nespresso-02.jpg)
+
+- [エッセンサ ミニ](https://www.nespresso.com/jp/ja/order/machines/original)
+- [エアロチーノ4](
+https://www.nespresso.com/jp/ja/order/accessories/original/aeroccino-4-milk-frother)
+
+---
+
+# 息抜きの風景3
+
+![bg](./nespresso-03.jpg)
+
+---
+
+# 息抜きの風景4
+
+![bg](./nespresso-04.jpg)
+
+### ☕😩 ← 大体こんな顔しながら飲んでる
+
+---
+
 # おわりに
 
 みなさまのオススメのリモートワークグッズがあれば<br />ぜひ教えてください 🙏
 
-このスライドは Marp を利用して作りました。<br />普段から Markdown に慣れている人は<br />使いやすいと思うのでオススメです。
+このスライドは Marp を利用して作りました。📝<br />普段から Markdown に慣れている人は<br />使いやすいと思うのでオススメです。
 
 - [Marp - Markdown Presentation Writer](https://yhatt.github.io/marp/)
 - [Marpを使ってmarkdownでスライド資料を作成する](https://dev.classmethod.jp/articles/make-slides-from-markdown-with-marp/)
