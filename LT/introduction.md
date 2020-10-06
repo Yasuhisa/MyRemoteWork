@@ -57,7 +57,7 @@ style: |
 ふとみなさんの在宅勤務環境はどのような感じだろうと思い、
 まずは自分の在宅環境を晒してみることにしました。🤔
 
-部屋 👉 PC 👉 モニター 👉 スピーカー 👉 ヘッドフォン 👉 キーボード 👉 マウス 👉 サブ機
+部屋 👉 PC 👉 ディスプレイ 👉 スピーカー 👉 ヘッドフォン 👉 キーボード 👉 マウス 👉 サブ機
 
 の順番に紹介するよ！
 
@@ -67,7 +67,7 @@ style: |
 
 # 部屋（2020/05）
 
-![h:400px right](./room-before.jpg)
+![h:400px right](./assets/room-before.jpg)
 
 - 約 5.5 畳（窓 2 つ、日当たり良好）
 - NURO 光 マンションタイプ（平均 200 - 300 Mbps）⭕
@@ -81,7 +81,7 @@ style: |
 
 # PC
 
-![bg](./machine.png)
+![bg](./assets/machine.png)
 
 ```
 - MacBook Air (13-inch, Mid 2013)
@@ -96,29 +96,63 @@ style: |
 
 # 部屋（2020/07 追記）
 
-![bg](./room-after.jpg)
+![bg](./assets/room-after.jpg)
 
 ### 7月になってデスクと会社支給 PC が変わりました。
 
 ---
 
-# モニター
+# 部屋（2020/10）
 
-![bg](./U2417H.png)
+![bg](./assets/room-after-202010.png)
+
+### 2 人分の作業スペースを作りました。
+
+---
+
+# 部屋（2020/10）
+
+![bg](./assets/cable-less.jpg)
+
+### ケーブルを減らしました。
+
+---
+
+# ディスプレイ
+
+![bg](./assets/U2417H.png)
 
 ```
 - DELL U2417H
 - Amazon の新古品で購入、¥24,519
-- ベゼル（モニター縁の黒枠）が超薄くて値段の割に満足度高め ⭕
+- ベゼル（ディスプレイ縁の黒枠）が超薄くて値段の割に満足度高め ⭕
 ```
 
 [DELL 製品ページのリンク](https://japancatalog.dell.com/pd/U2417H.html)
 
 ---
 
+# ディスプレイ（2020/10）
+
+![bg](./assets/U2720QM.jpg)
+
+```
+- DELL U2720QM
+- Amazon のタイムセールで購入、¥53,820
+- 4K (HDR 400) ⭕
+- USB-C 90W 給電可能 ⭕
+- Macbook の外部ディスプレイとして付属の USB-C ケーブルで繋ぐだけ（充電器要らず）⭕
+- エルゴトロン LX デスクマウントアームをクランプ式で使用
+```
+
+- [DELL U2720QM Amazon 販売ページのリンク](https://www.amazon.co.jp/dp/B085TWLMF9)
+- [エルゴトロン LX デスクマウント Amazon 販売ページのリンク](https://www.amazon.co.jp/gp/product/B01FW15TV6/)
+
+---
+
 # スピーカー
 
-![bg](./Z120BW.jpg)
+![bg](./assets/Z120BW.jpg)
 
 ```
 - Logicool Z120BW
@@ -131,9 +165,27 @@ style: |
 
 ---
 
+# スピーカー（2020/10）
+
+![bg](./assets/ED-S880DB.jpg)
+
+```
+- Edifier ED-S880DB
+- プレゼントでもらう 🎁
+- Z120BW と比較しようがないくらい音が良くなってビビる ⭕
+- 端子が豊富 ⭕
+- 設定要らずで Bluetooth でもすぐ繋がる ⭕
+- インシュレーターは友人におすすめされた Audio Technica の AT6098 
+```
+
+- [Princeton 販売ページのリンク](https://www.princeton.co.jp/product/eds880db.html)
+- [AT6098 Amazon 販売ページのリンク](https://www.amazon.co.jp/dp/B00008B5UY)
+
+---
+
 # ヘッドフォン
 
-![bg](./QC35.jpg)
+![bg](./assets/QC35.jpg)
 
 ```
 - Bose QuietComfort 35 Wireless headphones II
@@ -149,7 +201,7 @@ style: |
 
 # キーボード
 
-![bg](./MXKeys.jpg)
+![bg](./assets/MXKeys.jpg)
 
 ```
 - Logicool MXKeys US キー配列
@@ -168,7 +220,7 @@ style: |
 
 # マウス
 
-![bg](./MagicTrackpad2.jpg)
+![bg](./assets/MagicTrackpad2.jpg)
 
 ```
 - Apple Magic Trackpad 2 - シルバー
@@ -186,7 +238,7 @@ style: |
 
 # サブ機
 
-![bg](./submachine.jpg)
+![bg](./assets/submachine.jpg)
 
 ```
 - 会社支給じゃない自分のマシン（業務では使わないよ！）
@@ -210,14 +262,14 @@ style: |
 
 # 息抜きの風景1
 
-![bg](./nespresso-01.jpg)
+![bg](./assets/nespresso-01.jpg)
 
 
 ---
 
 # 息抜きの風景2
 
-![bg](./nespresso-02.jpg)
+![bg](./assets/nespresso-02.jpg)
 
 - [エッセンサ ミニ](https://www.nespresso.com/jp/ja/order/machines/original)
 - [エアロチーノ4](
@@ -227,13 +279,13 @@ https://www.nespresso.com/jp/ja/order/accessories/original/aeroccino-4-milk-frot
 
 # 息抜きの風景3
 
-![bg](./nespresso-03.jpg)
+![bg](./assets/nespresso-03.jpg)
 
 ---
 
 # 息抜きの風景4
 
-![bg](./nespresso-04.jpg)
+![bg](./assets/nespresso-04.jpg)
 
 ### ☕😩 ← 大体こんな顔しながら飲んでる
 
